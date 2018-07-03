@@ -1,0 +1,9 @@
+depth,file,threshold_l,threshold_u
+0.07,photo_hor/weierbach_hor_07x.png,700,3200
+0.15,photo_hor/weierbach_hor_15x.png,700,2200
+0.22,photo_hor/weierbach_hor_22x.png,700,1200
+0.32,photo_hor/weierbach_hor_32x.png,700,1200
+0.43,photo_hor/weierbach_hor_43x.png,700,1200
+0.50,photo_hor/weierbach_hor_50x.png,700,1200
+0.70,photo_hor/weierbach_hor_70x.png,700,1200
+0.87,photo_hor/weierbach_hor_87x.png,700,1200

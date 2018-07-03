@@ -1,0 +1,7 @@
+depth,file,threshold_l,threshold_u
+0.05,./BB_images/inf_DE2_stretch_5.png,200,10000
+0.2,./BB_images/inf_DE2_stretch_20.png,200,10000
+0.37,./BB_images/inf_DE2_stretch_37.png,200,10000
+0.46,./BB_images/inf_DE2_stretch_46.png,200,10000
+0.61,./BB_images/inf_DE2_stretch_61.png,200,10000
+0.7,./BB_images/inf_DE2_stretch_70.png,200,10000

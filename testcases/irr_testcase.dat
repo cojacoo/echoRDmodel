@@ -1,0 +1,5 @@
+// CAOS Irrigation Input file
+// all SI! put -9999 for missing value > try to compute in script; at least one (total/intensity) must be set 
+// [s]           [s]          [m]         [m/s]        [g/m3]
+tstart,tend,total,intense,conc
+120,3720,0.04,0.00001111,0.004

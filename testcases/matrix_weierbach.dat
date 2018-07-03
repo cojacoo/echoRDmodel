@@ -1,0 +1,8 @@
+no ks ts tr alpha n rho z name
+1 2.3237e-06 0.475 0.025 1.94 1.208 1.50E+03 -0.2 topweier_new
+2 6.0e-06 0.46 0.06 1.5 1.36 1.50E+03 -0.1 loess_erwin
+3 6.3e-6 0.47 0.11 5.9 1.23 1.50E+03 -0.1 loesslehm_IUP
+4 1.7e-6 0.40 0.04 1.9 1.25 1.50E+03 -0.1 schwemmloess_IUP
+5 1.1e-6 0.46 0.06 1.5 1.36 1.50E+03 -0.1 loess_AP
+6 8.3e-6 0.41 0.12 5.3 1.17 1.50E+03 -0.1 loesslehm_AP
+7 4.2e-6 0.43 0.11 1.2 1.2 1.50E+03 -0.1 schwemmloess_AP
